@@ -1,6 +1,6 @@
 #include <iostream>
 
-void ReadPersonWeight(unsigned short& weight)//Îñóùåñòâëÿåò ââîä ñ êëàâèàòóðû ðîñòà ÷åëîâåêà
+void ReadPersonWeight(unsigned short& weight)//ÃŽÃ±Ã³Ã¹Ã¥Ã±Ã²Ã¢Ã«Ã¿Ã¥Ã² Ã¢Ã¢Ã®Ã¤ Ã± ÃªÃ«Ã Ã¢Ã¨Ã Ã²Ã³Ã°Ã» Ð²ÐµÑÐ° Ã·Ã¥Ã«Ã®Ã¢Ã¥ÃªÃ 
 {
 	std::cin >> weight;
 }
